@@ -1,3 +1,20 @@
+- [Introduction](#introduction)
+- [What is "App Name"](#what-is--app-name-)
+- [Inspiration](#inspiration)
+- [What Does This Project Address?](#what-does-this-project-address-)
+- [How was the app build](#how-was-the-app-build)
+  - [UI & Style Guide](#ui---style-guide)
+  - [Tech Stack](#tech-stack)
+  - [Project Setup](#project-setup)
+- [App Features](#app-features)
+  - [Dashboard with personalized workout](#dashboard-with-personalized-workout)
+  - [Exercise Library](#exercise-library)
+  - [Challenges - Arcade](#challenges---arcade)
+  - [Stats - Progress Tracker](#stats---progress-tracker)
+  - [Login](#login)
+  - [Future Ideas](#future-ideas)
+- [Last Words](#last-words)
+
 ## Introduction
 
 Hello everyone, my name is Gary Vladimir, a 16-year-old front-end developer who is very happy to be participating in my first ever hackathon brought by Hashnode and PlanetScale, can't wait to show you my project!
